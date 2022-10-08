@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# Name: Shreyas Anil (shanil) and Shivani Rao (surao)
-#Shivani submitted the paper
+
 
 import sys
 class FastqReader :
